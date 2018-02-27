@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-docker build -t birchwoodlangham/ubuntu-base:2017-10 .
+docker build -t birchwoodlangham/ubuntu-base:2018-03 .
