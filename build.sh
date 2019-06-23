@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
 
-docker build -t birchwoodlangham/ubuntu-base:2018-04 .
+docker rmi birchwoodlangham/ubuntu-base:latest
+docker build -t birchwoodlangham/ubuntu-base:latest .
+docker tag birchwoodlangham/ubuntu-base:latest birchwoodlangham/ubuntu-base:2019-06

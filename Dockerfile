@@ -1,6 +1,6 @@
 FROM ubuntu:18.04
 
-MAINTAINER Tan Quach <tan.quach@birchwoodlangham.com>
+LABEL maintainer="tan.quach@birchwoodlangham.com"
 
 ENV DEBIAN_FRONTEND noninteractive
 
