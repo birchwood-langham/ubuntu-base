@@ -1,6 +1,6 @@
 # Ubuntu Base Docker image
 
-Based on the official Ubuntu 16.04, this base image adds additional tools that I need for creating a JDK and Scala/Spark development environment.
+Based on the official Ubuntu 18.04, this base image adds additional tools that I need for creating a JDK and Scala/Spark development environment.
 
 ## Change Log
 
